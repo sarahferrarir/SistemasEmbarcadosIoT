@@ -1,0 +1,1 @@
+# Configuration variables (e.g., sensitivity)

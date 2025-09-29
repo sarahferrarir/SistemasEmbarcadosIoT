@@ -1,0 +1,1 @@
+# Maps gestures to mouse actions
